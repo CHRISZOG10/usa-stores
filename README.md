@@ -296,7 +296,7 @@ Designed for marketing and strategy teams, this dashboard uncovers customer beha
 ## 🧭 Interactivity & Filters
 
 - 📌 **Dynamic Year Selector**
-- 🔝 **Top Customers Selector  
+- 🔝 **Top Customers Selector** 
 - 📍 **Filters by Region, State**  
 - 🛍️ **Filters by Category, Payment Method**  
 - 📈 **Clickable Visuals** – Drill into segments directly from charts  

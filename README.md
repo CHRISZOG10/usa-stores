@@ -307,7 +307,7 @@ Designed for marketing and strategy teams, this dashboard uncovers customer beha
 
 | Mockup Dashboard | Sales Dashboard | Customer Dashboard |
 |------------------|-----------------|--------------------|
-| ![Mockup](assets/images/USA STORES MOCKUP.png)| ![Sales](assets/images/USA STORES SALES.png) | ![Customer](assets/images/USA STORES CUSTOMERS.png) |
+| ![Mockup](assets/images/USA-STORES-MOCKUP.png)| ![Sales](assets/images/USA-STORES-SALES.png) | ![Customer](assets/images/USA-STORES-CUSTOMERS.png) |
 
 ---
 

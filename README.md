@@ -7,18 +7,18 @@ A complete data analysis and visualization project simulating the sales performa
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Tech Stack](#tech-stack)
-3. [Data Preparation](#data-preparation)
-4. [SQL Data Cleaning Process](#data-cleaning)
-5. [Sales Dashboard](#sales-dashboard)
-6. [Customer Dashboard](#customer-dashboard)
-7. [Interactivity & Filters](#interactivity--filters)
-8. [Screenshots](#screenshots)
-9. [Recommendations](#Recommendations)
-10. [How to Use](#how-to-use)
-11. [Project Outcome](#project-outcome)
-12. [Author](#author)
+- [Project Overview](#project-overview)
+- [Tech Stack](#tech-stack)
+- [Data Preparation](#data-preparation)
+- [SQL Data Cleaning Process](#data-cleaning)
+- [Sales Dashboard](#sales-dashboard)
+- [Customer Dashboard](#customer-dashboard)
+- [Interactivity & Filters](#interactivity--filters)
+- [Screenshots](#screenshots)
+- [Recommendations](#Recommendations)
+- [How to Use](#how-to-use)
+- [Project Outcome](#project-outcome)
+- [Author](#author)
 
 ---
 

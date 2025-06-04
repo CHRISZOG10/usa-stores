@@ -280,7 +280,7 @@ The **Sales Dashboard** offers a deep dive into business performance across time
 - 🧾 **Category Comparison:** Sales vs. Profit per Category  
 - 📆 **Weekly Trends:** Weekly analysis with average line & variance indicators  
 
-[!View the USA SALES DASHBOARD](https://public.tableau.com/app/profile/chris.zogas/viz/USSTORESDASHBOARD/USASALESDASHBOARD)
+[View the USA SALES DASHBOARD](https://public.tableau.com/app/profile/chris.zogas/viz/USSTORESDASHBOARD/USASALESDASHBOARD)
 
 ---
 
@@ -295,7 +295,7 @@ Designed for marketing and strategy teams, this dashboard uncovers customer beha
 - 📊 **Order Distribution:** Loyalty & engagement insights  
 - 🥇 **Top 10 Customers by Profit:** Ranked by profit, with details  
 
-[!View the USA CUSTOMERS DASHBOARD](https://public.tableau.com/app/profile/chris.zogas/viz/USSTORESCUSTOMERSDASHBOARD/USACUSTOMERSDASHBOARD?publish=yes)
+[View the USA CUSTOMERS DASHBOARD](https://public.tableau.com/app/profile/chris.zogas/viz/USSTORESCUSTOMERSDASHBOARD/USACUSTOMERSDASHBOARD?publish=yes)
 
 ---
 

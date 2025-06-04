@@ -47,7 +47,7 @@ Provide a business-ready, interactive dashboard that analyzes year-over-year sto
 ## 🧹 Data Preparation
 
 ### 📁 DATA SOURCE
-[!View the data Retail Store Sales: Dirty for Data Cleaning](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
+[View the data Retail Store Sales: Dirty for Data Cleaning](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 
 The raw dataset was downloaded from Kaggle and enriched with U.S.A geographical data:
 

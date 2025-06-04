@@ -336,7 +336,7 @@ Based on the insights derived from the dashboards, the following recommendations
 
 5. Reward and Retain Top Customers
    The top 5 customers contributed to almost 3M of total profits. Retaining these VIP clients through exclusive perks or dedicated account management could further boost lifetime value.
-   ![Top 5 Customers](/assets/images/Top-5-Customers)
+   ![Top 5 Customers](assets/images/Top-5-Customers.png)
   
 ---
 

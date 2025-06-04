@@ -56,6 +56,8 @@ The raw dataset was downloaded from Kaggle and enriched with U.S.A geographical 
 - `state` ➝ U.S.A. states generated and mapped  
 - `region` ➝ Categorized into `East`, `West`, `North`, `South`  
 
+---
+
 ## SQL Data Cleaning Process
 
 > **Cleaned and structured using SQL in VS Code.**  

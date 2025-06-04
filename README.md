@@ -10,6 +10,7 @@ A complete data analysis and visualization project simulating the sales performa
 - [Project Overview](#project-overview)
 - [Tech Stack](#tech-stack)
 - [Data Preparation](#data-preparation)
+  - [Data Source](#data-source)
 - [SQL Data Cleaning Process](#data-cleaning)
 - [Sales Dashboard](#sales-dashboard)
 - [Customer Dashboard](#customer-dashboard)
@@ -46,7 +47,7 @@ Provide a business-ready, interactive dashboard that analyzes year-over-year sto
 
 ## 🧹 Data Preparation
 
-### 📁 DATA SOURCE
+### 📁 Data Source
 [View the data Retail Store Sales: Dirty for Data Cleaning](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 
 The raw dataset was downloaded from Kaggle and enriched with U.S.A geographical data:

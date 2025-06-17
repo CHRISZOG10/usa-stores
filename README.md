@@ -352,7 +352,7 @@ Based on the insights derived from the dashboards, the following recommendations
    ```bash
    git clone https://github.com/CHRISZOG10/usa-stores.git
    ```
-2. Open the Tableau Workbook: `USA_Stores_Dashboard.twbx`  
+2. Open the Tableau Workbook: `assets/USA Stores Dashboards/US STORES DASHBOARD.twbx`  
 3. Explore both dashboards and try the interactivity features
 
 ---

@@ -7,7 +7,7 @@ A complete data analysis and visualization project simulating the sales performa
 
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](#-project--overview)
 - [Tech Stack](#tech-stack)
 - [Data Preparation](#data-preparation)
   - [Data Source](#data-source)

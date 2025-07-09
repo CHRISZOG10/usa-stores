@@ -1,4 +1,4 @@
-# Project USA Stores!!!
+# Project USA Stores
 ✌🏻💯
 
 A complete data analysis and visualization project simulating the sales performance of a U.S.A. This project utilizes real-world sales data enriched with geographical context to provide actionable business insights.

@@ -7,19 +7,19 @@ A complete data analysis and visualization project simulating the sales performa
 
 ## 📑 Table of Contents
 
-- [🔍 Project Overview](#-project-overview)
-- [🛠 Tech Stack](#-tech-stack)
-- [🧹 Data Preparation](#-data-preparation)
-  - [📁 Data Source](#-data-source)
-- [SQL Data Cleaning Process](#sql-data-cleaning-process)
-- [📈 Sales Dashboard](#-sales-dashboard)
-- [👥 Customer Dashboard](#-customer-dashboard)
-- [🧭 Interactivity & Filters](#-interactivity--filters)
-- [🖼️ Screenshots](#-screenshots)
-- [💭 Recommendations](#-Recommendations)
-- [🚀 How to Use](#-how-to-use)
-- [✅ Project Outcome](#-project-outcome)
-- [👨‍💻 Author](#-author)
+* [🔍 Project Overview](#-project-overview)
+* [🛠 Tech Stack](#-tech-stack)
+* [🧹 Data Preparation](#-data-preparation)
+  * [📁 Data Source](#-data-source)
+* [SQL Data Cleaning Process](#sql-data-cleaning-process)
+* [📈 Sales Dashboard](#-sales-dashboard)
+* [👥 Customer Dashboard](#-customer-dashboard)
+* [🧭 Interactivity & Filters](#-interactivity--filters)
+* [🖼️ Screenshots](#-screenshots)
+* [💭 Recommendations](#-Recommendations)
+* [🚀 How to Use](#-how-to-use)
+* [✅ Project Outcome](#-project-outcome)
+* [👨‍💻 Author](#-author)
 
 ---
 
